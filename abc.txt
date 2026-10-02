@@ -1,0 +1,10 @@
+1.INFO: Hello This is India
+2.WARNING: Do not go to Nepal this week
+3.ERROR: Glaisers are uncertain
+4.This is intentionally without any info
+5.INFO: Application started
+6.INFO: User logged in
+7.WARNING: Low disk space
+8.INFO: Request completed
+9.ERROR: Database connection failed
+10.INFO: Application stopped

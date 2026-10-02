@@ -1,0 +1,29 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "level": "INFO",
+      "message": "Application started"
+    },
+    {
+      "id": 2,
+      "level": "WARNING",
+      "message": "Database connection is slow"
+    },
+    {
+      "id": 3,
+      "level": "ERROR",
+      "message": "Database connection failed"
+    },
+    {
+      "id": 4,
+      "level": "INFO",
+      "message": "User logged in"
+    },
+    {
+      "id": 5,
+      "level": "ERROR",
+      "message": "Student details could not be fetched"
+    }
+  ]
+}

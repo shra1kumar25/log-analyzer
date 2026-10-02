@@ -1,0 +1,18 @@
+{
+  "application": "student-api",
+  "logs": [
+    {
+      "timestamp": "2026-08-29T10:00:00",
+      "message": "Application started successfully"
+    },
+    {
+      "timestamp": "2026-08-29T10:05:00",
+      "message": "WARNING: Database connection is slow"
+    },
+    {
+      "timestamp": "2026-08-29T10:10:00",
+      "message": "ERROR: Failed to fetch student details"
+    }
+  ]
+}
+
